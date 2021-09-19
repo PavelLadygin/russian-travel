@@ -1,8 +1,8 @@
 .footer__columns {
     display: flex;
     justify-content: space-between;
-    margin: 0;
-    padding: 92px 48px 24px;
+    margin: 0 auto;
+    padding: 92px 0px 24px;
     color: #FFFFFF;
 }
 

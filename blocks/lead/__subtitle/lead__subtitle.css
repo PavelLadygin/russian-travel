@@ -11,13 +11,14 @@
     color: #FFFFFF;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 768px) {
     .lead__subtitle {
         padding: 0px 0px 56px;
+        font-size: 24px;
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
     .lead__subtitle {
         padding: 0px 0px 40px;
         max-width: 288px;

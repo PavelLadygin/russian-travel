@@ -12,6 +12,12 @@
     }
 }
 
+@media screen and (max-width: 850px){
+    .place__image {
+        width: 380px;
+        height: 380px;
+    }
+}
 
 @media screen and (max-width: 768px){
     .place__image {
@@ -20,7 +26,7 @@
     }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 425px){
     .place__image {
         width: 320px;
         height: 320px;
