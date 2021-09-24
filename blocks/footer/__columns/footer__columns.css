@@ -4,7 +4,7 @@
     margin: 0 auto;
     padding: 92px 0px 24px;
     color: #FFFFFF;
-    align-items: center;
+    align-items: flex-start;
 }
 
 @media screen and (max-width:768px) {

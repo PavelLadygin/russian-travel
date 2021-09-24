@@ -8,24 +8,13 @@
     color: #FFFFFF;
     position: relative;
     margin: 0 auto;
+    padding: 0;
     z-index: 1;
 }
-/*
-@media screen and (max-width:1024px) {
-    .cover__subtitle {
-        margin: 32px 332px 195px;
-    }
-}
 
-
-@media screen and (max-width:768px) {
-    .cover__subtitle {
-        margin: 32px 204px 115px;
-    }
-}
-*/
 @media screen and (max-width:320px) {
     .cover__subtitle {
+        max-width: 288px;
         font-size: 14px;
         line-height: 16px;
     }
